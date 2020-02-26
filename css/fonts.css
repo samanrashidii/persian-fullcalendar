@@ -1,0 +1,12 @@
+@font-face{
+	font-family:'Iran';
+	src: url('../fonts/Iran.eot');
+	src: url('../fonts/Iran.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Iran.ttf') format('truetype'),
+		 url('../fonts/Iran.otf') format('otf'),
+		 url('../fonts/Iran.svg') format('svg'),
+		 url('../fonts/Iran.woff2') format('woff2'),
+		 url('../fonts/Iran.woff') format('woff');
+	font-weight: normal;
+  	font-style: normal;
+}
