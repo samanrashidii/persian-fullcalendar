@@ -4,7 +4,7 @@ Persian and RTL version of popular calendar plugin : [fullcalendar.io](https://f
 
 ## install with bower
 
-`bower install yiiman-dev/persian-fullcalendar`
+`bower install samanrashidii/persian-fullcalendar`
 
 ## Language
 
