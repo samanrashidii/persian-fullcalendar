@@ -1,0 +1,14 @@
+{
+  "name": "persian-fullcalendar",
+  "homepage": "https://github.com/samanrashidii/persian-fullcalendar",
+  "authors": [
+    "samanrashidii"
+  ],
+  "description": "persian|jalali fullcalendar",
+  "main": "",
+  "keywords": [
+    "fullcalendar",
+    "jalali"
+  ],
+  "license": "MIT"
+}

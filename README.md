@@ -2,6 +2,10 @@
 
 Persian and RTL version of popular calendar plugin : [fullcalendar.io](https://fullcalendar.io/)
 
+## install with bower
+
+`bower install samanrashidii/persian-fullcalendar`
+
 ## Language
 
 Persian - RTL
